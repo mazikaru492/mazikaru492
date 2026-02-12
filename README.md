@@ -31,19 +31,30 @@
 
 ### 📌 つくったもの
 
-<div align="center">
+#### 🌐 [react-next-portfolio](https://github.com/mazikaru492/react-next-portfolio)
 
-<a href="https://github.com/mazikaru492/react-next-portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mazikaru492&repo=react-next-portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/mazikaru492/WiFi-Analyzer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mazikaru492&repo=WiFi-Analyzer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/mazikaru492/Hacking-MCP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mazikaru492&repo=Hacking-MCP&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" />
-</a>
+> Next.js × TypeScript で構築した自分のポートフォリオサイト。
+> microCMS と連携して作品を管理し、レスポンシブデザインでモバイルにも対応しています。
 
-</div>
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![microCMS](https://img.shields.io/badge/-microCMS-2B2B2B?style=flat-square)
+
+#### 📡 [WiFi-Analyzer](https://github.com/mazikaru492/WiFi-Analyzer)
+
+> 周囲の WiFi ネットワークをスキャンして、信号強度・チャンネル・セキュリティ方式を一覧表示するツール。
+> 電波強度によるフィルタリング機能付き。`.exe` 化してスタンドアロンで使えます。
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+#### 🔓 [Hacking-MCP](https://github.com/mazikaru492/Hacking-MCP)
+
+> MCP（Model Context Protocol）上で動作するペネトレーションテスト用ツール群。
+> Nmap・Gobuster・SQLMap 等の CTF 系ツールを AI から呼び出せるように統合してます。
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
