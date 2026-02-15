@@ -8,7 +8,7 @@
 
 <br>
 
-### 🙋‍♂️ About Me
+###  About Me
 
 京都デザイン＆テクノロジー専門学校で勉強しながら、Web開発とセキュリティを軸に色々つくっています。
 きれいなUIとセキュアなコード、両方にこだわりたいタイプです。
@@ -18,7 +18,7 @@
 
 ---
 
-### ⚒️ Tech Stack
+###  Tech Stack
 
 <div align="center">
 
@@ -35,7 +35,7 @@
 
 ---
 
-### 📊 Stats
+###  Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazikaru492&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&ring_color=00D9FF&locale=ja" />
@@ -48,7 +48,7 @@
 
 ---
 
-### 📈 Activity Graph
+###  Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mazikaru492&bg_color=0D1117&color=00D9FF&line=00D9FF&point=c9d1d9&area_color=0D1117&area=true&hide_border=true" />
@@ -56,7 +56,7 @@
 
 ---
 
-### 🐍 こんな感じで草生やしてます
+###  こんな感じで草生やしてます
 
 > コントリビューション（GitHub上での活動）をヘビが食べていくアニメーションです 🎮
 
