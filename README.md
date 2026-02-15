@@ -19,14 +19,6 @@
 
 ---
 
-### 🏆 GitHub Trophy
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mazikaru492&theme=algolia&no-frame=true&no-bg=true&column=7" />
-</div>
-
----
-
 ### ⚒️ Tech Stack
 
 <div align="center">
@@ -44,16 +36,6 @@
 
 ---
 
-### 📌 Projects
-
-<div align="center">
-  <a href="https://github.com/mazikaru492/react-next-portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mazikaru492&repo=react-next-portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" /></a>
-  <a href="https://github.com/mazikaru492/WiFi-Analyzer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mazikaru492&repo=WiFi-Analyzer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" /></a>
-  <a href="https://github.com/mazikaru492/Hacking-MCP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mazikaru492&repo=Hacking-MCP&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" /></a>
-</div>
-
----
-
 ### 📊 Stats
 
 <div align="center">
@@ -62,7 +44,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mazikaru492&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mazikaru492&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9&locale=ja" />
 </div>
 
 ---
@@ -75,7 +57,9 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 こんな感じで草生やしてます
+
+> コントリビューション（GitHub上での活動）をヘビが食べていくアニメーションです 🎮
 
 <div align="center">
   <picture>
