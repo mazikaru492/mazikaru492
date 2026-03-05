@@ -16,20 +16,13 @@
 
 ### About
 
-<table>
-<tr>
-<td valign="top" width="60%">
+<div align="center">
+  <img width="360" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
+</div>
 
 京都デザイン＆テクノロジー専門学校で勉強しながら、Web開発とセキュリティを軸に色々つくっています。きれいなUIとセキュアなコード、両方にこだわりたいタイプです。
 
 最近は **Next.js** と **TypeScript** をメインで触っていて、空き時間に WiFi 解析ツールやセキュリティ関連の小ツールをつくるのが趣味になってます。
-
-</td>
-<td valign="top" align="center">
-  <img width="280" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
-</td>
-</tr>
-</table>
 
 ```typescript
 const furuya = {
