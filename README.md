@@ -14,29 +14,36 @@
 
 <br>
 
-### 🎯 About Me
+### About
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
+<table>
+<tr>
+<td valign="top" width="60%">
 
-京都デザイン＆テクノロジー専門学校で勉強しながら、Web開発とセキュリティを軸に色々つくっています。
-きれいなUIとセキュアなコード、両方にこだわりたいタイプです。
+京都デザイン＆テクノロジー専門学校で勉強しながら、Web開発とセキュリティを軸に色々つくっています。きれいなUIとセキュアなコード、両方にこだわりたいタイプです。
 
-最近は **Next.js** と **TypeScript** をメインで触っていて、
-空き時間に WiFi 解析ツールやセキュリティ関連の小ツールをつくるのが趣味になってます。
+最近は **Next.js** と **TypeScript** をメインで触っていて、空き時間に WiFi 解析ツールやセキュリティ関連の小ツールをつくるのが趣味になってます。
+
+</td>
+<td valign="top" align="center">
+  <img width="280" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
+</td>
+</tr>
+</table>
 
 ```typescript
 const furuya = {
-  location: "京都 🏯",
+  location: "京都",
   school: "京都デザイン＆テクノロジー専門学校",
   interests: ["Web開発", "セキュリティ", "UI/UXデザイン"],
   currentlyLearning: ["Next.js", "TypeScript", "ペネトレーションテスト"],
-  funFact: "抹茶が好きです 🍵",
+  funFact: "海外に行くのが好きです。",
 };
 ```
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -66,7 +73,7 @@ const furuya = {
 
 ---
 
-### 🏆 Trophies
+### Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mazikaru492&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" />
@@ -74,7 +81,7 @@ const furuya = {
 
 ---
 
-### 📊 Stats
+### Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazikaru492&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&ring_color=00D9FF&locale=ja" />
@@ -87,7 +94,7 @@ const furuya = {
 
 ---
 
-### 📈 Activity Graph
+### Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mazikaru492&bg_color=0D1117&color=00D9FF&line=00D9FF&point=c9d1d9&area_color=0D1117&area=true&hide_border=true" />
@@ -95,19 +102,9 @@ const furuya = {
 
 ---
 
-### 📅 3D Contribution Calendar
+### Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mazikaru492/mazikaru492/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" />
-</div>
-
----
-
-### 🐍 こんな感じで草生やしてます
-
-> コントリビューション（GitHub上での活動）をヘビが食べていくアニメーションです
->
-> ⚠️ **初めてこのリポジトリをセットアップする場合**: GitHubにプッシュ後、[Actions](../../actions)タブから「Generate Snake Animation」を手動実行してください
+> コントリビューションをヘビが食べていくアニメーションです。GitHubにプッシュ後、Actionsタブから「Generate Snake Animation」を手動実行すると表示されます。
 
 <div align="center">
   <picture>
@@ -116,44 +113,6 @@ const furuya = {
     <img alt="github-snake" src="https://raw.githubusercontent.com/mazikaru492/mazikaru492/output/github-snake-dark.svg" />
   </picture>
 </div>
-
----
-
-### 📚 Currently Learning
-
-<div align="center">
-
-| Topic                     | Progress                                                                                     |
-| ------------------------- | -------------------------------------------------------------------------------------------- |
-| 🔐 ペネトレーションテスト | ![](https://geps.dev/progress/40?dangerColor=00D9FF&warningColor=00D9FF&successColor=00D9FF) |
-| ⚛️ Next.js App Router     | ![](https://geps.dev/progress/70?dangerColor=00D9FF&warningColor=00D9FF&successColor=00D9FF) |
-| 🦀 Rust                   | ![](https://geps.dev/progress/20?dangerColor=00D9FF&warningColor=00D9FF&successColor=00D9FF) |
-| ☁️ AWS/Cloud              | ![](https://geps.dev/progress/35?dangerColor=00D9FF&warningColor=00D9FF&successColor=00D9FF) |
-
-</div>
-
----
-
-### 💭 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
----
-
-### 📫 Connect with Me
-
-<div align="center">
-  <a href="https://github.com/mazikaru492">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
-<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mazikaru492&style=for-the-badge&color=0891b2&labelColor=1c1917" />
