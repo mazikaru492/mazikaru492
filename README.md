@@ -66,27 +66,6 @@ const furuya = {
 
 ---
 
-### Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mazikaru492&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" />
-</div>
-
----
-
-### Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazikaru492&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&ring_color=00D9FF&locale=ja" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazikaru492&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&locale=ja" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mazikaru492&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9&locale=ja" />
-</div>
-
----
-
 ### Activity Graph
 
 <div align="center">
