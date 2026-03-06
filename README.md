@@ -22,14 +22,14 @@
 
 京都デザイン＆テクノロジー専門学校で勉強しながら、Web開発と便利ツールを軸に色々つくっています。きれいなUIを作れるように頑張っています。
 
-最近は **Next.js** と **TypeScript** をメインで触っていて、空き時間に WiFi 解析ツールやセキュリティ関連の小ツールをつくるのが趣味になってます。
+最近は **Next.js** と **Python** をメインで触っていて、空き時間に WiFi 解析ツールやサイトを作ったりして楽しんでいます。
 
 ```typescript
 const furuya = {
   location: "京都",
   school: "京都デザイン＆テクノロジー専門学校",
-  interests: ["Web開発", "セキュリティ", "UI/UXデザイン"],
-  currentlyLearning: ["Next.js", "TypeScript", "ペネトレーションテスト"],
+  interests: ["Web開発", "セキュリティ", "プログラミング"],
+  currentlyLearning: ["Next.js", "Python", "ペネトレーションテスト"],
   funFact: "海外に行くのが好きです。",
 };
 ```
