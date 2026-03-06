@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=500&size=24&duration=4000&pause=800&color=00D9FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=%E3%81%A9%E3%81%86%E3%82%82%E3%80%81%E5%8F%A4%E5%AE%B6%E3%81%A7%E3%81%99%E3%80%82;%E4%BA%AC%E9%83%BD%E3%81%A7%E3%82%B3%E3%83%BC%E3%83%89%E6%9B%B8%E3%81%84%E3%81%A6%E3%81%BE%E3%81%99%E3%80%82;%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%A8UI%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%A7%E3%81%99%E3%80%82" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=500&size=24&duration=4000&pause=800&color=00D9FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=%E3%81%A9%E3%81%86%E3%82%82%E3%80%81%E5%8F%A4%E5%AE%B6%E3%81%A7%E3%81%99%E3%80%82;%E4%BA%AC%E9%83%BD%E3%81%A7%E3%82%B3%E3%83%BC%E3%83%89%E6%9B%B8%E3%81%84%E3%81%A6%E3%81%BE%E3%81%99%E3%80%82" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
